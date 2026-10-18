@@ -1,0 +1,10 @@
+Nosaukums: PhoneExperienceHost; ID: 20264; Atmiņa MB: 189.1
+Nosaukums: TextInputHost; ID: 2388; Atmiņa MB: 190
+Nosaukums: chrome; ID: 2336; Atmiņa MB: 221.5
+Nosaukums: chrome; ID: 776; Atmiņa MB: 223
+Nosaukums: MsMpEng; ID: 4444; Atmiņa MB: 288.1
+Nosaukums: chrome; ID: 19672; Atmiņa MB: 310.8
+Nosaukums: chrome; ID: 12028; Atmiņa MB: 324.2
+Nosaukums: chrome; ID: 11180; Atmiņa MB: 440.8
+Nosaukums: explorer; ID: 13328; Atmiņa MB: 471.6
+Nosaukums: chrome; ID: 22092; Atmiņa MB: 568.6
