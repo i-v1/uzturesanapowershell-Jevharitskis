@@ -1,1 +1,7 @@
+Name              Status       MacAddress        LinkSpeed
+----              ------       ----------        ---------
+Ethernet          Up           D8-5E-D3-87-50-54 1 Gbps
+Беспроводная сеть Disconnected 08-6A-C5-16-39-51 0 bps
+Radmin VPN        Up           02-50-27-5C-53-6A 100 Mbps
 
+Adapteru skaits CSV failā: 3
