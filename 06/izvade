@@ -1,0 +1,16 @@
+PS C:\WINDOWS\System32> Write-Output "Rindas CSV failā: $($datuTabula.Count)"
+Rindas CSV failā: 39
+PS C:\WINDOWS\System32> $datuTabula | Select-Object -First 10 | Format-Table -AutoSize
+
+DeviceName                                         DriverProviderName    DriverVersion  InfName
+----------                                         ------------------    -------------  -------
+Xvdd SCSI Miniport                                 Xbox                  10.0.22029.3   oem90.inf
+Voice Clarity                                      Microsoft Corporation 1.0.4.7057     oem82.inf
+Logitech G HUB Virtual Bus Enumerator              Logitech              2026.0.0.0     oem17.inf
+NVIDIA RTX Voice                                   NVIDIA                1.0.0.2        oem88.inf
+Steam Streaming Speakers                           Valve Corporation     17.56.13.764   oem59.inf
+Steam Streaming Microphone                         Valve Corporation     8.33.15.17     oem42.inf
+Intel(R) HID Event Filter                          Intel(R) Corporation  2.2.1.386      oem25.inf
+Intel(R) Serial IO GPIO Host Controller - INTC1056 Intel Corporation     30.100.2221.20 oem65.inf
+Intel(R) SPI (flash) Controller - 7AA4             INTEL                 10.1.37.7      oem24.inf
+Intel(R) SMBus - 7AA3                              INTEL                 10.1.37.7      oem24.inf
