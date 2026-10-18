@@ -1,0 +1,8 @@
+PS C:\WINDOWS\System32> Write-Output "Get-Service rezultāts: $($serviss1.Status)"
+Get-Service rezultāts: Running
+PS C:\WINDOWS\System32> Write-Output "Get-CimInstance rezultāts: $($serviss2.State)"
+Get-CimInstance rezultāts: Running
+PS C:\WINDOWS\System32> Write-Output "Get-Service laiks ms: $([math]::Round($laiks1.TotalMilliseconds, 3))"
+Get-Service laiks ms: 13.863
+PS C:\WINDOWS\System32> Write-Output "Get-CimInstance laiks ms: $([math]::Round($laiks2.TotalMilliseconds, 3))"
+Get-CimInstance laiks ms: 590.556
