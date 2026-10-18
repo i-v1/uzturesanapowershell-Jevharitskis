@@ -1,0 +1,4 @@
+Darbojas: 111
+Apturēti: 179
+Kopā šajos statusos: 290
+Visi servisi: 290
