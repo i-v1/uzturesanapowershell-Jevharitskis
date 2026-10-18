@@ -1,1 +1,6 @@
-
+Datora nosaukums: DESKTOP-PD1MS9Q
+Operētājsistēma: Microsoft Windows 11 Home
+Būvējuma numurs: 26200
+PowerShell versija: 5.1.26100.9711
+Datums un laiks: 10/18/2026 21:17:52
+Procesu skaits: 199
